@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ra-router-crud/static/css/main.d17765f4.css",
+    "main.js": "/ra-router-crud/static/js/main.4ea712d6.js",
+    "static/media/005-tag.svg": "/ra-router-crud/static/media/005-tag.a6daf82128724a3e08d4f097143a69f2.svg",
+    "static/media/001-gif-file.svg": "/ra-router-crud/static/media/001-gif-file.03ce736a870a62e06aeb47dcc8ea31e6.svg",
+    "static/media/004-smiling.svg": "/ra-router-crud/static/media/004-smiling.2ba61f55f60f87cd72cb20314f7f8717.svg",
+    "static/media/002-placeholder.svg": "/ra-router-crud/static/media/002-placeholder.e75e705fbdea62445e43aa29901c287d.svg",
+    "static/media/003-image.svg": "/ra-router-crud/static/media/003-image.901c746569cae6fa704277229436a39d.svg",
+    "index.html": "/ra-router-crud/index.html",
+    "main.d17765f4.css.map": "/ra-router-crud/static/css/main.d17765f4.css.map",
+    "main.4ea712d6.js.map": "/ra-router-crud/static/js/main.4ea712d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d17765f4.css",
+    "static/js/main.4ea712d6.js"
+  ]
+}
