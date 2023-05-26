@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/53pb2sf4mqsgyxpi?svg=true)](https://ci.appveyor.com/project/arbprog/ra-router-crud)
